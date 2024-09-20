@@ -3,7 +3,7 @@ import UserProfile from "./UserProfile";
 
 export default function Navigation() {
   return (
-    <nav className="z-10 text-xl">
+    <nav className="z-10 text-base md:text-xl">
       <ul className="flex gap-16 items-center">
         <li>
           <Link
